@@ -9,16 +9,16 @@ Termimal Commands:
 
 Notes:
 
-+Every match has to have a winner. There is no draw.
-+All data will be based on when finding MVP.
-+Each player of the winning team gets +10 points.
-+Each file represents one match.
-+The first line of each file indicates which sport it is.
-+If there is an error in the file format, do not do the calculation, give a warning.
-+The team that wins the match is calculated according to the goal/score.
-
-BasketBall-Format: player name; nickname; number; team name; position; scored points; rebounds; assists 
-HandBall-Format: player name; nickname; number; team name; position; goal made; goals received
++Every match has to have a winner. There is no draw. <br> 
++All data will be based on when finding MVP. <br> 
++Each player of the winning team gets +10 points. <br> 
++Each file represents one match. <br> 
++The first line of each file indicates which sport it is. <br> 
++If there is an error in the file format, do not do the calculation, give a warning. <br> 
++The team that wins the match is calculated according to the goal/score. <br> 
+ <br> 
+BasketBall-Format: player name; nickname; number; team name; position; scored points; rebounds; assists  <br> 
+HandBall-Format: player name; nickname; number; team name; position; goal made; goals received <br> 
 
 BasketBall Multipliers:
 
