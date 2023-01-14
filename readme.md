@@ -1,12 +1,12 @@
 Can Özdemir Tucan Tournament Code Task
-
+ <br> 
 It was my interview task feel free to use, good luck.
-
-Termimal Commands: 
--npm install
--Production start: npm start
--For start without build: npm run start:dev
-
+ <br> 
+Termimal Commands:  <br> 
+-npm install <br> 
+-Production start: npm start <br> 
+-For start without build: npm run start:dev <br> 
+ <br> 
 Notes:
 
 +Every match has to have a winner. There is no draw. <br> 
